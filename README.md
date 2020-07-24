@@ -47,8 +47,8 @@
 		</div>
 		<h2 class="text-primary">hello</h2>
 
-</body>
-,,,
+	</body>
+	,,,
 ### Responsive Grid System
 * '.col'=>Extra small scale devices
 * '.col-sm'=> Small scale devices(>=576px)
