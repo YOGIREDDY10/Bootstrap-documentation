@@ -48,3 +48,10 @@
 		<h2 class="text-primary">hello</h2>
 
 </body>
+,,,
+### Responsive Grid System
+* '.col'=>Extra small scale devices
+* '.col-sm'=> Small scale devices(>=576px)
+* '.col-md'=>Medium scale devices(>=768px
+* '.col-lg'=>Large scale devices(>=992px)
+* '.col-xl'=>extra large scale device(>=1200px)
