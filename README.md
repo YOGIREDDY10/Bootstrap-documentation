@@ -13,18 +13,17 @@
 * 'dark'=>black
 * 'white'=>white
 * Example (background color)
-# '''html
-<h2 class="bg-primary>blue colored background color</h2>
- '''
+# html
+* <h2 class="bg-primary>blue colored background color</h2>
            
-   Example(text color)
-   ''' html 
+* Example(text color)
+  html 
    <h2 class ="text-primary">hello</h2>
 # Grid system
  * 'row'
  * 'col'
    
- ### '''html 
+ ### html 
    <body class="container">
 	<div class="row r">
 		<div class="col c">
@@ -47,7 +46,6 @@
 		<h2 class="text-primary">hello</h2>
 
 	</body>
-	,,,
 # Responsive Grid System
 * '.col'=>Extra small scale devices
 * '.col-sm'=> Small scale devices(>=576px)
