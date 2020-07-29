@@ -52,3 +52,10 @@
 * '.col-md'=>Medium scale devices(>=768px
 * '.col-lg'=>Large scale devices(>=992px)
 * '.col-xl'=>extra large scale device(>=1200px)
+
+
+
+
+# JSON
+
+
